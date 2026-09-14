@@ -55,6 +55,23 @@ portfolio-website/
     └── workflows/
         └── deploy.yml
 ```
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### About
+![About](screenshots/about.png)
+
+### Skills
+![Skills](screenshots/skills.png)
+
+### Projects
+![Projects](screenshots/projects.png)
+
+### Contact
+![Contact](screenshots/contact.png)
+
 
 ## ✨ Features
 
